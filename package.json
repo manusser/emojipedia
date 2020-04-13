@@ -1,0 +1,19 @@
+{
+  "name": "emojipedia",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "emoji-dictionary": "^1.0.10",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-easy-emoji": "^1.4.0",
+    "react-scripts": "0.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
