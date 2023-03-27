@@ -1,3 +1,7 @@
+# Emojipedia
+
+<img align="center" src="https://github.com/manusser/emojipedia/blob/master/screenshot1.png" alt="Emojipedia Screenshot" height="30" width="40" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
