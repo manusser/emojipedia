@@ -2,6 +2,8 @@
 
 <img align="center" src="https://github.com/manusser/emojipedia/blob/master/screenshot1.png" alt="Emojipedia Screenshot" height="400" width="750" />
 
+A simple project I've made for testing React and API fetching.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
