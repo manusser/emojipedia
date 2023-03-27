@@ -1,6 +1,6 @@
 # Emojipedia
 
-<img align="center" src="https://github.com/manusser/emojipedia/blob/master/screenshot1.png" alt="Emojipedia Screenshot" height="400" width="700" />
+<img align="center" src="https://github.com/manusser/emojipedia/blob/master/screenshot1.png" alt="Emojipedia Screenshot" height="400" width="750" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
