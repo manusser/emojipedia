@@ -8,7 +8,7 @@ import Categories from './components/Categories';
 import { Container, Row, Col, Jumbotron } from 'react-bootstrap';
 
 const API = "https://emoji-api.com/emojis?search=";
-const API_KEY = "449c678a53f59994d5c40248fa1a724196920bd8";
+const API_KEY = "";
 
 class App extends Component {
 
